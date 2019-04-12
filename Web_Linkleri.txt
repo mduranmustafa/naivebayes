@@ -1,0 +1,3 @@
+http://rohitdholakia.com/blog/machine-learning/writing-your-own-naive-bayes-classifier/
+
+http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
